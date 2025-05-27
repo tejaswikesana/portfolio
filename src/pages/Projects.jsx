@@ -14,7 +14,7 @@ const projectsData = [
     technologies: ["IoT", "Arduino", "Sensors", "GSM", "GPS"],
     category: "IoT",
     icon: <Cpu size={24} />,
-    github: "#",
+  
     demo: "#",
     featured: true,
     date: "2024",
